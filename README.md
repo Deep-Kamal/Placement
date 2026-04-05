@@ -1,5 +1,4 @@
-# Placement
-**📊 Placement Prediction ML Model (Google Colab)
+📊 Placement Prediction ML Model (Google Colab)
 🚀 Project Overview
 
 This project is a Machine Learning model that predicts whether a student will get placed or not based on various features such as academic performance, skills, and other relevant factors.
@@ -72,4 +71,4 @@ If you want, I can also:
 
 Add badges (GitHub stars, license, etc.)
 Customize it for your exact dataset/code
-Create a professional portfolio description 🚀**
+Create a professional portfolio description 🚀
