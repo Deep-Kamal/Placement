@@ -62,6 +62,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 📜 License
 This project is open-source and available under the MIT License.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
