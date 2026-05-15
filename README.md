@@ -9,7 +9,7 @@
 
 📊 Dataset Description
 - The dataset contains features such as:
-- CGPA IQ / Aptitude Score
+- CGPA IQ / Aptitude Score  
 - Communication Skills
 - Projects / Experience
 - Placement Status (Target Variable)
